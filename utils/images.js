@@ -1,0 +1,22 @@
+export const placesData = [
+  { id: '1', name: 'The Cozy Café', image: require('../assets/images/cozy-cafe.jpg') },
+  { id: '2', name: 'Gourmet Restaurant', image: require('../assets/images/gourmet.jpeg') },
+  { id: '3', name: 'Sunny Bakery', image: require('../assets/images/sunnybakery.jpeg') },
+  { id: '4', name: 'Vintage Coffee Shop', image: require('../assets/images/vintageCS.jpg') },
+  { id: '5', name: 'Modern Bistro', image: require('../assets/images/modernbistro.jpeg') },
+  { id: '6', name: 'Ocean View Diner', image: require('../assets/images/oceanview.jpeg') },
+  { id: '7', name: 'Mountain Restaurant', image: require('../assets/images/mountainrest.jpg') },
+  { id: '8', name: 'Urban Grill', image: require('../assets/images/urbangrill.jpg') },
+  { id: '9', name: 'Seafood Haven', image: require('../assets/images/seafood.jpeg') },
+  { id: '10', name: 'Classic Café', image: require('../assets/images/classiccafe.jpg') },
+  { id: '11', name: 'Rooftop Bar', image: require('../assets/images/rooftop.jpeg') },
+  { id: '12', name: 'Garden Restaurant', image: require('../assets/images/garden.jpg') },
+  { id: '13', name: 'Downtown Diner', image: require('../assets/images/downtowndinner.jpg') },
+  { id: '14', name: 'Breezy Café', image: require('../assets/images/breezycafe.jpg') },
+  { id: '15', name: 'City Bistro', image: require('../assets/images/citybistro.jpg') },
+  { id: '16', name: 'Lakeview Café', image: require('../assets/images/lakeviewcafe.jpg') },
+  { id: '17', name: 'Street Food Corner', image: require('../assets/images/foodcorner.jpg') },
+  { id: '18', name: 'Cafe Mocha', image: require('../assets/images/mocha.jpg') },
+  { id: '19', name: 'Sushi Bar', image: require('../assets/images/sushibar.jpeg') },
+  { id: '20', name: 'The French Café', image: require('../assets/images/frenchcafe.jpg') }
+];
